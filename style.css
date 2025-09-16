@@ -1,0 +1,78 @@
+
+    body{
+        background-color:oldlace ;
+        margin: 0;
+        padding: 0;
+        color: black;
+        line-height: 1.4px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    }
+    header{
+        margin: 0mm;
+        padding:10px;
+        color:white;
+        text-shadow: 10; 
+        text-align: center;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 5.5vw;
+        line-height:3;
+        background-color:lightpink;
+        font-weight:bolder;
+        font-style: oblique;
+
+        
+    }
+    section{
+        background-color: white;
+        text-align:start;
+        margin: 1em;
+        padding: 20px;
+        text-shadow:5px;
+        font-size:larger;
+        border-radius: 15px;
+
+        
+    }
+    .titre{
+        text-align: center;
+        font-style:oblique;
+
+
+    }
+    .auteur{
+        color: silver;
+        text-decoration: underline;
+        font-style: oblique;
+    }
+    .date{
+        color: silver;
+        text-decoration: underline;
+        font-style: oblique;
+    }
+    section{
+        background-color: white;
+        text-align:start;
+        margin: 1em;
+        padding: 20px;
+        text-shadow:5px;
+        font-size:larger;
+        border-radius: 15px;
+
+    }
+    .titre2{
+        text-align: center;
+        font-style: oblique;
+    }
+    footer{
+        margin: 0mm;
+        padding:10px;
+        color:white;
+        text-shadow: 10px; 
+        text-align: center;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size:larger;
+        line-height:1;
+        background-color:lightpink;
+        font-weight:normal;
+        font-style: oblique;
+    }
